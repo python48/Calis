@@ -1,0 +1,57 @@
+﻿<Page
+    x:Class="App1.Pages.WelcomePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Canvas Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <!--Pivot Control-->
+        <Pivot Title="Welcome" Foreground="Gray" Margin="0,0,0,134">
+            <!--Pivot item one-->
+            <PivotItem Header="item1" Margin="12,0,12,41">
+                <ScrollViewer Height="415">
+                    <Grid>
+                        <Image Source="/Assets/StoreLogo.png" Margin="0,0,0,390" Height="150"></Image>
+                        <TextBlock  Padding="10" TextWrapping="Wrap"  Text="Lorem Ipsuma que se dedica a la ecimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas Letraset, las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum." Margin="0,155,0,153" ></TextBlock>
+                    </Grid>
+                </ScrollViewer>
+
+            </PivotItem>
+            
+            <!--Pivot item two-->
+            <PivotItem Header="item1" Margin="12,0,12,41">
+                <ScrollViewer Height="415">
+                    <Grid>
+                        <Image Source="/Assets/StoreLogo.png" Margin="0,0,0,390" Height="150"></Image>
+                        <TextBlock  Padding="10" TextWrapping="Wrap"  Text="Lorem Ipsuma que se dedica a la ecimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas Letraset, las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum." Margin="0,155,0,153" ></TextBlock>
+                    </Grid>
+                </ScrollViewer>
+
+            </PivotItem>
+            
+            <!--Pivot item three-->
+            <PivotItem Header="item1" Margin="12,0,12,41">
+                <ScrollViewer Height="415">
+                    <Grid>
+                        <Image Source="/Assets/StoreLogo.png" Margin="0,0,0,390" Height="150"></Image>
+                        <TextBlock  Padding="10" TextWrapping="Wrap"  Text="Lorem Ipsuma que se dedica a la ecimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas Letraset, las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum." Margin="0,155,0,153" ></TextBlock>
+                    </Grid>
+                </ScrollViewer>
+
+            </PivotItem>
+
+
+        </Pivot>
+
+        <Grid Height="153" Canvas.Top="477">
+            <Button Content="Comenzar"  Margin="10,0,0,102" Width="340" Click="Button_Click"></Button>
+            <TextBlock Text="Ya tengo una cuenta" Padding="10" Foreground="Gray" Margin="10,47,10,45"></TextBlock>
+
+        </Grid>
+
+    </Canvas>
+</Page>
