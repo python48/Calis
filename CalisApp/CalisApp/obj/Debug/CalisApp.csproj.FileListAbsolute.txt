@@ -1,0 +1,14 @@
+c:\users\sergio\documents\visual studio 2013\Projects\CalisApp\CalisApp\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\sergio\documents\visual studio 2013\Projects\CalisApp\CalisApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\sergio\documents\visual studio 2013\Projects\CalisApp\CalisApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\sergio\documents\visual studio 2013\Projects\CalisApp\CalisApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\sergio\documents\visual studio 2013\Projects\CalisApp\CalisApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\sergio\documents\visual studio 2013\Projects\CalisApp\CalisApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\sergio\documents\visual studio 2013\Projects\CalisApp\CalisApp\Bin\Debug\CalisApp.dll
+c:\users\sergio\documents\visual studio 2013\Projects\CalisApp\CalisApp\Bin\Debug\CalisApp.pdb
+c:\users\sergio\documents\visual studio 2013\Projects\CalisApp\CalisApp\Bin\Debug\AppManifest.xaml
+c:\users\sergio\documents\visual studio 2013\Projects\CalisApp\CalisApp\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\sergio\documents\visual studio 2013\Projects\CalisApp\CalisApp\Bin\Debug\CalisApp_Debug_AnyCPU.xap
+c:\users\sergio\documents\visual studio 2013\Projects\CalisApp\CalisApp\obj\Debug\CalisApp.dll
+c:\users\sergio\documents\visual studio 2013\Projects\CalisApp\CalisApp\obj\Debug\CalisApp.pdb
+c:\users\sergio\documents\visual studio 2013\Projects\CalisApp\CalisApp\obj\Debug\XapCacheFile.xml
